@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watchlistNetflix/static/css/main.aef0b2a6.css",
+    "main.js": "/watchlistNetflix/static/js/main.1804d7a6.js",
+    "index.html": "/watchlistNetflix/index.html",
+    "main.aef0b2a6.css.map": "/watchlistNetflix/static/css/main.aef0b2a6.css.map",
+    "main.1804d7a6.js.map": "/watchlistNetflix/static/js/main.1804d7a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef0b2a6.css",
+    "static/js/main.1804d7a6.js"
+  ]
+}
