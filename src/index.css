@@ -30,6 +30,7 @@ body {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+
 .card img{
   height: 200px;
   border-radius: 10px;
@@ -56,15 +57,18 @@ body {
 }
 
 .card__info button{
-  border-style:none;
-  border-radius: 10px;
+  /* border-style:none; */
+  /* border-radius: 10px; */
+  text-transform: uppercase;
   padding: 7px;
   font-size: 15px;
   font-family: 'Roboto Slab', serif;
   cursor: pointer;
-  background-color: rgb(158, 158, 158); ;
-  color: white;
+  background-color: white ;
+  color: rgb(115, 115, 180);
 }
+
 .card__info button:hover{
-  background-color:rgb(88, 80, 80) ;
+  background-color:rgb(150, 141, 141) ;
+  color: white;
 }
